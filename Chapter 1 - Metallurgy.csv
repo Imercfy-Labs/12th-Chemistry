@@ -40,6 +40,12 @@ MCQ,Choose the correct answer,"In the electrolytic refining of copper, which one
 
 MCQ,Choose the correct answer,Which of the following plot gives Ellingham diagram,ΔS VsT,ΔG° VsT,ΔG° Vs1/T,ΔG° VsT²,ΔG° VsT,Ellingham diagram plots standard free energy change vs temperature
 
+MCQ,Choose the correct answer,"In the Ellingham diagram, for the formation of carbon monoxide",The slope is positive above 700°C,The slope is negative above 700°C,(ΔG°/ΔT) is negative,None of these,(ΔG°/ΔT) is negative,The slope of CO formation line in Ellingham diagram is negative
+
+MCQ,Choose the correct answer,Which of the following reduction is not thermodynamically feasible?,Cr2O3 + 2Al → Al2O3 + 2Cr,Al2O3 + 2Cr → Cr2O3 + 2Al,3TiO2 + 4Al → 2Al2O3 + 3Ti,None of these,Al2O3 + 2Cr → Cr2O3 + 2Al,This reduction is not feasible as Al2O3 is more stable than Cr2O3
+
+MCQ,Choose the correct answer,Which of the following is not true with respect to the Ellingham diagram?,Free energy changes follow a straight line. The deviation occurs when there is a phase change.,The graph for the formation of CO2 is a straight line almost parallel to the free energy axis.,Negative slope of CO shows that it becomes more stable with an increase in temperature.,Positive slope of metal oxides shows that their stabilities decrease with an increase in temperature.,The graph for the formation of CO2 is a straight line almost parallel to the free energy axis.,The CO2 formation line has a significant slope in the Ellingham diagram
+
 Short Answer,Answer the following questions,What is the difference between minerals and ores?,NA,NA,NA,NA,NA,"Minerals: Low percentage of metal, difficult extraction, e.g., Clay (Al2O3.SiO2.2H2O)
 Ores: High percentage of metal, economical extraction, e.g., Bauxite (Al2O3.2H2O)"
 
@@ -62,6 +68,15 @@ Short Answer,Answer the following questions,Describe a method for refining nicke
 Ni(s) + 4CO(g) → Ni(CO)4(g)
 Ni(CO)4(g) → Ni(s) + 4CO(g)"
 
+Short Answer,Answer the following questions,Explain zone refining process with an example.,NA,NA,NA,NA,NA,"1. Based on fractional crystallization
+2. Impure metal rod heated with mobile heater
+3. Pure metal crystallizes while impurities move with molten zone
+4. Process repeated multiple times
+5. Used for Ge Si Ga purification"
+
+Short Answer,Answer the following questions,Using the Ellingham diagram predict the conditions under which: (i) Aluminium might be expected to reduce magnesia (ii) Magnesium could reduce alumina,NA,NA,NA,NA,NA,"i) Above 1600K - Al can reduce MgO as Al line lies below Mg line
+ii) Below 1600K - Mg can reduce Al2O3 as Mg line lies below Al line"
+
 Short Answer,Answer the following questions,Give the basic requirement for vapour phase refining.,NA,NA,NA,NA,NA,"1. Metal forms volatile compound with suitable reagent
 2. Volatile compound decomposes to give pure metal"
 
@@ -71,18 +86,23 @@ Short Answer,Answer the following questions,Give the uses of zinc.,NA,NA,NA,NA,N
 4. ZnS in luminous paints
 5. Brass alloy manufacturing"
 
+Short Answer,Answer the following questions,"Describe the role of: (i) Silica in copper extraction (ii) Cryolite in aluminium extraction (iii) Iodine in zirconium refining (iv) Sodium cyanide in froth flotation",NA,NA,NA,NA,NA,"i) Silica acts as acidic flux to remove FeO as slag
+ii) Cryolite improves conductivity and lowers melting point
+iii) Iodine forms volatile ZrI4 in Van Arkel process
+iv) NaCN acts as depressing agent for selective flotation"
+
+Short Answer,Answer the following questions,Explain the principle of electrolytic refining with an example.,NA,NA,NA,NA,NA,"1. Uses electrolytic cell
+2. Impure metal as anode pure metal as cathode
+3. Metal salt solution as electrolyte
+4. Metal dissolves at anode deposits at cathode
+5. Example: Silver refining process explained"
+
 Conceptual,Answer the following questions,Explain the electrometallurgy of aluminium.,NA,NA,NA,NA,NA,"Hall-Heroult Process:
 - Cathode: Iron tank lined with carbon
 - Anode: Carbon blocks
 - Electrolyte: 20% alumina + molten cryolite + 10% CaCl2
 - Temperature: Above 1270K
 - Reactions explained in detail"
-
-Conceptual,Answer the following questions,Explain the zone refining process with an example.,NA,NA,NA,NA,NA,"1. Based on fractional crystallization
-2. Impure metal rod heated with mobile heater
-3. Pure metal crystallizes while impurities move with molten zone
-4. Process repeated multiple times
-5. Used for Ge Si Ga purification"
 
 Conceptual,Answer the following questions,Explain the thermodynamic principle of metallurgy.,NA,NA,NA,NA,NA,"1. Selection of reducing agent based on ΔG values
 2. For spontaneous reduction ΔG should be negative
@@ -94,6 +114,12 @@ Conceptual,Answer the following questions,Explain the applications of Ellingham 
 3. Predicts feasibility of reduction
 4. Temperature dependence of reactions
 5. Carbon reduction possibilities"
+
+Conceptual,Answer the following questions,Explain the limitations of Ellingham diagram.,NA,NA,NA,NA,NA,"1. Based only on thermodynamic considerations
+2. Does not give reaction rate information
+3. Does not consider other possible reactions
+4. Assumes equilibrium conditions
+5. May not reflect actual conditions"
 
 Five Mark Questions,Answer the following questions,Explain the froth floatation method.,NA,NA,NA,NA,NA,"1. Used for sulphide ores
 2. Ore mixed with water and pine oil
