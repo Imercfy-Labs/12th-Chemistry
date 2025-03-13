@@ -12,21 +12,33 @@ MCQ,Choose the correct answer,Which of the metal is extracted by Hall – Heroul
 
 MCQ,Choose the correct answer,Which of the following statements about the advantage of roasting of sulphide ore before the reduction is not true?,ΔG°f of sulphide is greater than those for CS2 and H2S,ΔG°r is negative for roasting of sulphide ore to oxide,Roasting of the sulphide to its oxide is thermodynamically feasible,Carbon and hydrogen are suitable reducing agents for metal sulphides,Carbon and hydrogen are suitable reducing agents for metal sulphides,Carbon and hydrogen are not suitable reducing agents for metal sulfides
 
-Matching,Match the following,"Match items in Column I with Column II:
-Column I:
-A. Cryolite
-B. Zinc blende
-C. Bauxite
-D. Copper pyrite
-Column II:
-i. CuFeS2
-ii. ZnS
-iii. Al2O3.2H2O
-iv. Na3AlF6",NA,NA,NA,NA,(iv) (ii) (iii) (i),Match the minerals with their chemical formulas
-
 MCQ,Choose the correct answer,Wolframite ore is separated from tinstone by the process of,Smelting,Calcination,Roasting,Electromagnetic separation,Electromagnetic separation,Electromagnetic separation is used due to the magnetic properties of wolframite
 
 MCQ,Choose the correct answer,Which one of the following is not feasible,Zn(S) + Cu2+(aq) → Cu(s) + Zn2+(aq),Cu(S) + Zn2+(aq) → Zn(s) + Cu2+(aq),Cu(S) + 2Ag+(aq) → Ag(s) + Cu2+(aq),Fe(S) + Cu2+(aq) → Cu(s) + Fe2+(aq),Cu(S) + Zn2+(aq) → Zn(s) + Cu2+(aq),This reaction is not feasible as copper cannot reduce zinc ions
+
+MCQ,Choose the correct answer,Electrochemical process is used to extract,Iron,Lead,Sodium,Silver,Sodium,Electrochemical processes are used for extracting highly reactive metals like sodium
+
+MCQ,Choose the correct answer,Flux is a substance which is used to convert,Mineral into silicate,Infusible impurities to soluble impurities,Soluble impurities to infusible impurities,All of these,Infusible impurities to soluble impurities,Flux converts infusible impurities into soluble slag
+
+MCQ,Choose the correct answer,Which one of the following ores is best concentrated by froth floatation method?,Magnetite,Heamatite,Galena,Cassiterite,Galena,Galena (PbS) is a sulfide ore best concentrated by froth flotation
+
+MCQ,Choose the correct answer,"In the extraction of aluminium from alumina by electrolysis, cryolite is added to",Lower the melting point of alumina,Remove impurities from alumina,Decrease the electrical conductivity,Increase the rate of reduction,Lower the melting point of alumina,Cryolite reduces the melting point of the electrolyte mixture
+
+MCQ,Choose the correct answer,Zinc is obtained from ZnO by,Carbon reduction,Reduction using silver,Electrochemical process,Acid leaching,Carbon reduction,ZnO is reduced to Zn using carbon as reducing agent
+
+MCQ,Choose the correct answer,Extraction of gold and silver involves leaching with cyanide ion. Silver is later recovered by (NEET – 2017),Distillation,Zone refining,Displacement with zinc,Liquation,Displacement with zinc,Silver is recovered from its cyanide solution by displacement with zinc
+
+MCQ,Choose the correct answer,"Considering the Ellingham diagram, which of the following metals can be used to reduce alumina? (NEET – 2018)",Fe,Cu,Mg,Zn,Mg,Magnesium can reduce alumina as shown by Ellingham diagram
+
+MCQ,Choose the correct answer,"The following set of reactions are used in refining Zirconium: Zr(impure) + 2I2 → ZrI4, ZrI4 → Zr(pure) + 2I2. This method is known as",Liquation,Van Arkel process,Zone refining,Mond's process,Van Arkel process,Van Arkel process uses volatile iodide formation and decomposition
+
+MCQ,Choose the correct answer,Which of the following is used for concentrating ore in metallurgy?,Leaching,Roasting,Froth floatation,Both (a) and (c),Both (a) and (c),Both leaching and froth flotation are concentration methods
+
+MCQ,Choose the correct answer,The incorrect statement among the following is,Nickel is refined by Mond's process,Titanium is refined by Van Arkel's process,Zinc blende is concentrated by froth floatation,In the metallurgy of gold the metal is leached with a dilute sodium chloride solution,In the metallurgy of gold the metal is leached with a dilute sodium chloride solution,Gold is leached with cyanide solution not sodium chloride
+
+MCQ,Choose the correct answer,"In the electrolytic refining of copper, which one of the following is used as anode?",Pure copper,Impure copper,Carbon rod,Platinum electrode,Impure copper,Impure copper is used as anode in electrolytic refining
+
+MCQ,Choose the correct answer,Which of the following plot gives Ellingham diagram,ΔS VsT,ΔG° VsT,ΔG° Vs1/T,ΔG° VsT²,ΔG° VsT,Ellingham diagram plots standard free energy change vs temperature
 
 Short Answer,Answer the following questions,What is the difference between minerals and ores?,NA,NA,NA,NA,NA,"Minerals: Low percentage of metal, difficult extraction, e.g., Clay (Al2O3.SiO2.2H2O)
 Ores: High percentage of metal, economical extraction, e.g., Bauxite (Al2O3.2H2O)"
@@ -39,17 +51,78 @@ Short Answer,Answer the following questions,What is the role of Limestone in the
 Forms fusible slag with gangue (silica)
 CaO + SiO2 → CaSiO3 (slag)"
 
+Short Answer,Answer the following questions,Which type of ores can be concentrated by froth floatation method? Give two examples.,NA,NA,NA,NA,NA,"Sulphide ores can be concentrated by froth flotation.
+Examples:
+1. Copper pyrites (CuFeS2)
+2. Zinc blende (ZnS)
+3. Galena (PbS)"
+
+Short Answer,Answer the following questions,Describe a method for refining nickel (Mond process),NA,NA,NA,NA,NA,"1. Impure nickel heated with CO at 350K to form Ni(CO)4
+2. Ni(CO)4 decomposed at 460K to give pure nickel
+Ni(s) + 4CO(g) → Ni(CO)4(g)
+Ni(CO)4(g) → Ni(s) + 4CO(g)"
+
+Short Answer,Answer the following questions,Give the basic requirement for vapour phase refining.,NA,NA,NA,NA,NA,"1. Metal forms volatile compound with suitable reagent
+2. Volatile compound decomposes to give pure metal"
+
+Short Answer,Answer the following questions,Give the uses of zinc.,NA,NA,NA,NA,NA,"1. Galvanisation of iron and steel
+2. Die-casting in automobile industry
+3. ZnO in paints rubber cosmetics
+4. ZnS in luminous paints
+5. Brass alloy manufacturing"
+
 Conceptual,Answer the following questions,Explain the electrometallurgy of aluminium.,NA,NA,NA,NA,NA,"Hall-Heroult Process:
 - Cathode: Iron tank lined with carbon
 - Anode: Carbon blocks
 - Electrolyte: 20% alumina + molten cryolite + 10% CaCl2
 - Temperature: Above 1270K
-- Reactions at electrodes explained in detail"
+- Reactions explained in detail"
 
-Numerical,Answer the following questions,"If a sound wave has frequency 500 Hz and wavelength 0.7 m, calculate its speed.",NA,NA,NA,NA,350 m/s,"Speed = Frequency × Wavelength
-= 500 × 0.7 = 350 m/s"
+Conceptual,Answer the following questions,Explain the zone refining process with an example.,NA,NA,NA,NA,NA,"1. Based on fractional crystallization
+2. Impure metal rod heated with mobile heater
+3. Pure metal crystallizes while impurities move with molten zone
+4. Process repeated multiple times
+5. Used for Ge Si Ga purification"
+
+Conceptual,Answer the following questions,Explain the thermodynamic principle of metallurgy.,NA,NA,NA,NA,NA,"1. Selection of reducing agent based on ΔG values
+2. For spontaneous reduction ΔG should be negative
+3. Coupled reactions considered
+4. Temperature effects important"
+
+Conceptual,Answer the following questions,Explain the applications of Ellingham diagram.,NA,NA,NA,NA,NA,"1. Helps select reducing agent and temperature
+2. Shows relative stability of metal oxides
+3. Predicts feasibility of reduction
+4. Temperature dependence of reactions
+5. Carbon reduction possibilities"
+
+Five Mark Questions,Answer the following questions,Explain the froth floatation method.,NA,NA,NA,NA,NA,"1. Used for sulphide ores
+2. Ore mixed with water and pine oil
+3. Sodium ethyl xanthate as collector
+4. Air blown to create froth
+5. Ore particles rise with froth
+6. Gangue settles down
+7. Selective separation possible"
+
+Five Mark Questions,Answer the following questions,How is copper extracted from its ore?,NA,NA,NA,NA,NA,"1. Concentration by froth flotation
+2. Roasting and smelting with silica flux
+3. Matte formation (Cu2S + FeS)
+4. Converting to blister copper
+5. Electrolytic refining
+Detailed reactions included"
+
+Matching,Match the following,"Match items in Column I with Column II:
+Column I:
+A. Cryolite
+B. Zinc blende
+C. Bauxite
+D. Copper pyrite
+Column II:
+i. CuFeS2
+ii. ZnS
+iii. Al2O3.2H2O
+iv. Na3AlF6",NA,NA,NA,NA,(iv) (ii) (iii) (i),Match the minerals with their chemical formulas
 
 True/False,Choose the correct statement,The refractive index of a medium is always less than 1.,NA,NA,NA,NA,False,Refractive index is always greater than 1 as light cannot travel faster than its speed in vacuum
 
-Assertion and Reason,Assertion and Reason,"Assertion: Sound waves travel faster on a hot day than on a cold day
-Reason: The speed of sound increases with increase in temperature",NA,NA,NA,NA,Both assertion and reason are true and reason explains the assertion correctly,Temperature increase leads to increased particle velocity which results in faster sound propagation
+Assertion and Reason,Assertion and Reason,"Assertion: A rainbow is formed when sunlight is dispersed by water droplets.
+Reason: Different colors of light are refracted at different angles due to different refractive indices.",NA,NA,NA,NA,Both assertion and reason are true and reason explains the assertion correctly,Different wavelengths of light have different refractive indices causing dispersion in water droplets
