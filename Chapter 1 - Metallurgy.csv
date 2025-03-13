@@ -1,0 +1,55 @@
+Question Type,Question Format,Question,Option A,Option B,Option C,Option D,Correct Answer,Explanation
+
+MCQ,Choose the correct answer,Bauxite has the composition,Al2O3,Al2O3.nH2O,Fe2O3.2H2O,None of these,Al2O3.nH2O,Bauxite is a hydrated form of aluminum oxide
+
+MCQ,Choose the correct answer,"Roasting of sulphide ore gives the gas (A). (A) is a colorless gas. An aqueous solution of (A) is acidic. The gas (A) is",CO2,SO3,SO2,H2S,SO2,Roasting of sulfide ores produces sulfur dioxide which is colorless and forms an acidic solution
+
+MCQ,Choose the correct answer,Which one of the following reaction represents calcinations?,2Zn + O2 → 2ZnO,2ZnS + 3O2 → 2ZnO + 2SO2,MgCO3 → MgO + CO2,Both (a) and (c),MgCO3 → MgO + CO2,Calcination involves heating of carbonate ores to form metal oxide and CO2
+
+MCQ,Choose the correct answer,The metal oxide which cannot be reduced to metal by carbon is,PbO,Al2O3,ZnO,FeO,Al2O3,Aluminum oxide cannot be reduced by carbon due to its high stability
+
+MCQ,Choose the correct answer,Which of the metal is extracted by Hall – Heroult process?,Al,Ni,Cu,Zn,Al,Hall-Heroult process is used for the extraction of aluminum from alumina
+
+MCQ,Choose the correct answer,Which of the following statements about the advantage of roasting of sulphide ore before the reduction is not true?,ΔG°f of sulphide is greater than those for CS2 and H2S,ΔG°r is negative for roasting of sulphide ore to oxide,Roasting of the sulphide to its oxide is thermodynamically feasible,Carbon and hydrogen are suitable reducing agents for metal sulphides,Carbon and hydrogen are suitable reducing agents for metal sulphides,Carbon and hydrogen are not suitable reducing agents for metal sulfides
+
+Matching,Match the following,"Match items in Column I with Column II:
+Column I:
+A. Cryolite
+B. Zinc blende
+C. Bauxite
+D. Copper pyrite
+Column II:
+i. CuFeS2
+ii. ZnS
+iii. Al2O3.2H2O
+iv. Na3AlF6",NA,NA,NA,NA,(iv) (ii) (iii) (i),Match the minerals with their chemical formulas
+
+MCQ,Choose the correct answer,Wolframite ore is separated from tinstone by the process of,Smelting,Calcination,Roasting,Electromagnetic separation,Electromagnetic separation,Electromagnetic separation is used due to the magnetic properties of wolframite
+
+MCQ,Choose the correct answer,Which one of the following is not feasible,Zn(S) + Cu2+(aq) → Cu(s) + Zn2+(aq),Cu(S) + Zn2+(aq) → Zn(s) + Cu2+(aq),Cu(S) + 2Ag+(aq) → Ag(s) + Cu2+(aq),Fe(S) + Cu2+(aq) → Cu(s) + Fe2+(aq),Cu(S) + Zn2+(aq) → Zn(s) + Cu2+(aq),This reaction is not feasible as copper cannot reduce zinc ions
+
+Short Answer,Answer the following questions,What is the difference between minerals and ores?,NA,NA,NA,NA,NA,"Minerals: Low percentage of metal, difficult extraction, e.g., Clay (Al2O3.SiO2.2H2O)
+Ores: High percentage of metal, economical extraction, e.g., Bauxite (Al2O3.2H2O)"
+
+Short Answer,Answer the following questions,What are the various steps involved in the extraction of pure metals from their ores?,NA,NA,NA,NA,NA,"1. Concentration of the ore
+2. Extraction of crude metal
+3. Refining of crude metal"
+
+Short Answer,Answer the following questions,What is the role of Limestone in the extraction of iron from its oxide Fe2O3?,NA,NA,NA,NA,NA,"Limestone (CaO) acts as a flux
+Forms fusible slag with gangue (silica)
+CaO + SiO2 → CaSiO3 (slag)"
+
+Conceptual,Answer the following questions,Explain the electrometallurgy of aluminium.,NA,NA,NA,NA,NA,"Hall-Heroult Process:
+- Cathode: Iron tank lined with carbon
+- Anode: Carbon blocks
+- Electrolyte: 20% alumina + molten cryolite + 10% CaCl2
+- Temperature: Above 1270K
+- Reactions at electrodes explained in detail"
+
+Numerical,Answer the following questions,"If a sound wave has frequency 500 Hz and wavelength 0.7 m, calculate its speed.",NA,NA,NA,NA,350 m/s,"Speed = Frequency × Wavelength
+= 500 × 0.7 = 350 m/s"
+
+True/False,Choose the correct statement,The refractive index of a medium is always less than 1.,NA,NA,NA,NA,False,Refractive index is always greater than 1 as light cannot travel faster than its speed in vacuum
+
+Assertion and Reason,Assertion and Reason,"Assertion: Sound waves travel faster on a hot day than on a cold day
+Reason: The speed of sound increases with increase in temperature",NA,NA,NA,NA,Both assertion and reason are true and reason explains the assertion correctly,Temperature increase leads to increased particle velocity which results in faster sound propagation
